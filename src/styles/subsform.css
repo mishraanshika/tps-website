@@ -1,0 +1,50 @@
+.containersubs{
+  margin: 100px auto;
+  width: 80%;
+  height: 300px;
+  background-image: linear-gradient(rgba(72.55,65.49,56.86,0.7),rgba(72.55,65.49,56.86,0.7)),url(coimg.jpeg);
+  background-position: center;
+  background-size: cover;
+  border-radius: 10px;
+  text-align: center;
+  padding:100px 0;
+}
+
+.containersubs h5{
+    color: #ffff;
+    font-size: 50px;
+}
+
+/* .containersubs form{
+    margin-top: 20px;
+} */
+
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 50px 200px;
+    border-radius: 10px;
+}
+
+form input{
+    border: 0;
+    margin: 10px 0;
+    padding: 20px;
+    outline: none;
+    background: #f5f5f5;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+form button{
+    padding: 15px;
+    background: #ff5361;
+    color: #ffff;
+    font-size: 18px;
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+    cursor: pointer;
+    width: 150px;
+    margin: 20px auto 0;
+}

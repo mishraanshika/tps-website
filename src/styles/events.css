@@ -1,0 +1,236 @@
+.evtpage h1{
+    text-align: center;
+    font-family: 'Noto Sans Display', sans-serif;
+    color: #2d545e;
+    font-size: 50px;
+}
+
+.b1{
+  background-color: #ffff;
+  margin-bottom:50px;
+  width: 100%;
+  height:350px;
+}
+
+.b1 img{
+    width:350px;
+    float: left;
+    padding-left: 50px;
+    padding-top: 100px;
+    margin-bottom: 50px;
+  }
+
+.b1 h1{
+    float: right;
+    padding-top: 100px;
+    padding-right: 50px;
+    font-family: 'Noto Sans Display', sans-serif;
+    color: #2d545e;
+    font-size: 50px;
+}
+
+.b1 p{
+    padding-top: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    direction: rtl;
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 500;
+    color: #2d545e;
+    font-size: 18px;
+}
+
+.b1 h4{
+    padding-top: 190px;
+    padding-left: 50px;
+    padding-right: 50px;
+    direction: rtl;
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 600;
+    color: #2d545e;
+    font-size: 20px;
+}
+
+.b1 h3{
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    direction: rtl;
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 600;
+    color: #2d545e;
+    font-size: 20px;
+}
+
+.b2{
+  background-color: #b9a791;
+  margin-top: 150px;
+  width: 100%;
+  height:470px;
+}
+
+.b2 img{
+    width: 350px;
+    float: right;
+    padding-right: 50px;
+    padding-top: 100px;
+}
+
+.b2 h1{
+    float: left;
+    padding-top: 100px;
+    padding-left: 50px;
+    font-family: 'Noto Sans Display', sans-serif;
+    color: #ffff;
+    font-size: 50px;
+}
+
+.b2 p{
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    direction: ltr;
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 500;
+    color: #ffff;
+    font-size: 18px;
+}
+
+.b2 a{
+    float: left;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    direction: ltr;
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 500;
+    color: #ffff;
+    font-size: 18px;
+}
+
+.b2 h4{
+    padding-top: 170px;
+    padding-left: 50px;
+    padding-right: 50px;
+    direction: ltr;
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 600;
+    color: #ffff;
+    font-size: 20px;
+}
+
+.b2 h3{
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    direction: ltr;
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 600;
+    color: #ffff;
+    font-size: 20px;
+}
+
+.b3{
+    background-color: #ffff;
+    margin-bottom:50px;
+    width: 100%;
+    height:350px;
+  }
+  
+.b3 img{
+      width:350px;
+      float: left;
+      padding-left: 50px;
+      padding-top: 100px;
+      margin-bottom: 50px;
+    }
+  
+.b3 h1{
+      float: right;
+      padding-top: 100px;
+      padding-right: 50px;
+      font-family: 'Noto Sans Display', sans-serif;
+      color: #2d545e;
+      font-size: 50px;
+  }
+  
+.b3 p{
+      padding-top: 200px;
+      padding-left: 50px;
+      padding-right: 50px;
+      direction: rtl;
+      font-family: 'Nanum Myeongjo', serif;
+      font-weight: 600;
+      color: #2d545e;
+      font-size: 20px;
+  }
+
+.b4{
+    background-color: #b9a791;
+    margin-top: 150px;
+    width: 100%;
+    height:470px;
+    text-decoration: none;
+  }
+  
+.b4 img{
+      width: 350px;
+      float: right;
+      padding-right: 50px;
+      padding-top: 100px;
+  }
+  
+.b4 h1{
+      float: left;
+      padding-top: 100px;
+      padding-left: 50px;
+      font-family: 'Noto Sans Display', sans-serif;
+      color: #ffff;
+      font-size: 50px;
+  }
+  
+/* .b4 p{
+      padding-top: 10px;
+      padding-left: 50px;
+      padding-right: 50px;
+      direction: ltr;
+      font-family: 'Nanum Myeongjo', serif;
+      font-weight: 500;
+      color: #ffff;
+      font-size: 20px;
+  } */
+  
+
+  .b4 a{
+      /* text-decoration: none; */
+      padding-top: 20px;
+      padding-left: 50px;
+      padding-right: 50px;
+      direction: ltr;
+      font-family: 'Nanum Myeongjo', serif;
+      font-weight: 600;
+      color: #ffff;
+      font-size: 20px;
+     
+  }
+
+  .casestudylink1{
+    padding-top: 190px;
+  }
+
+  
+
+
+  .desevents{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Nanum Myeongjo', serif;
+    background-color: #b9a791;
+    margin-bottom: -30px;
+    padding-bottom: 50px;
+    color: white;
+    font-weight: 550;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
